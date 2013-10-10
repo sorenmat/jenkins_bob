@@ -2,9 +2,10 @@
 
 body, table, form, input, td, th, p, textarea, select {
   font-family: Verdana,Arial, Helvetica, sans-serif;
-  
+
 }
 
 #main-table {
+  min-height: 800px;
   background-image: url(https://git.schantz.com/users/soren/repos/jenkins_theme/browse/bob.jpg?raw) !important;
 }
